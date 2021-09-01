@@ -54,3 +54,9 @@ drwxr-xr-x  3 root  root 4096 9月   1 13:45 fb49ce8d-832a-49d7-a402-aacef6dd456
 
 Now the disk is installed in /media/cheng/fb49ce8d-832a-49d7-a402-aacef6dd4560
 
+
+
+Ref:
+
+https://www.cnblogs.com/yongpan/p/10919511.html
+
